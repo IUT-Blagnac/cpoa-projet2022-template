@@ -11,6 +11,7 @@ v22.1, {localdate}
 :inclusion:
 :experimental:
 :toc: toc2
+:numbered:
 
 // ------------------------------------------
 
